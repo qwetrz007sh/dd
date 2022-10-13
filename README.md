@@ -1,4 +1,4 @@
-echo "请选择您需要的镜像包:"
+echo "请选择您需要的镜像包:"</br>
 echo "  0) 升级本脚本"
 echo "  1) Debian 10（Buster） 用户名：root 密码：IdcOffer.com"
 echo "  2) Debian 11（Bullseye）用户名：root 密码：IdcOffer.com ,推荐1G内存以上使用"
